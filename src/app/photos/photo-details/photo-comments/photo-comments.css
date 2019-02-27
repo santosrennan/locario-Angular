@@ -1,0 +1,10 @@
+.comment-list {
+    height: 50vh;
+    overflow-y: auto;
+}
+#rent{
+
+    margin-top: 10px;
+    width:200px; 
+
+}
